@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Creat
 ---
 
 ## 🌟 About Me  
-- 🎨 **Creative Designer**: Transforming ideas into stunning, user-friendly designs.  
 - 💻 **Frontend Specialist**: Building intuitive and responsive user interfaces.  
+- 🎨 **Creative Designer**: Transforming ideas into stunning, user-friendly designs.  
 - 📱 **Mobile Developer**: Creating cross-platform apps with **Flutter**.  
 - 🚀 **Backend Enthusiast**: Developing scalable and efficient APIs using **Node.js**.  
 - 💡 Lifelong learner, always exploring the latest trends in tech and design.  
@@ -45,8 +45,16 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Creat
 ---
 
 ## 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://www.yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/unaib-ur-rehman31/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.behance.net/unaiburrehman" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://stackoverflow.com/users/23595049/rehman-unaib" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://www.figma.com/@unaiburrehman" target="_blank"><img src="https://img.shields.io/badge/Figma%20Community-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Community"></a>
+  <a href="https://unaib-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
+
+---
 
 Feel free to connect or drop a ⭐ on my repositories! 😊  
