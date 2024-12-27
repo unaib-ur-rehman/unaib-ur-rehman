@@ -53,8 +53,10 @@ I'm a passionate **Software Engineer** and **Creative Designer** dedicated to cr
 
 ## 📈 GitHub Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=unaib-ur-rehman&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaib-ur-rehman&layout=compact&theme=radical" alt="Top Languages" height="165" />
+<p style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=unaib-ur-rehman&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" style="border-radius: 10px;" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaib-ur-rehman&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=38bdae&bg_color=1a1b27" style="border-radius: 10px;" height="165" />
+</p>
 
 ---
 
