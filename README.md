@@ -4,6 +4,7 @@ I'm a passionate **Software Engineer** and **Creative Designer** dedicated to cr
 
 ---
 
+
 ## 🌟 About Me  
 - 🚀 **Frontend Engineer**: Building intuitive and responsive user interfaces.  
 - 🎨 **Creative Designer**: Transforming ideas into stunning, user-friendly designs.  
@@ -71,4 +72,4 @@ I'm a passionate **Software Engineer** and **Creative Designer** dedicated to cr
 ---
 </div>
 
-Feel free to connect or drop a ⭐ on my repositories! 😊
+Feel free to connect with me via <span style="color:white; font-weight:600; background-color:black; padding:4px 8px; border-radius:5px;">[Email](mailto:unaiburrehman31@gmail.com)</span> or reach out on any of my social platforms! 😊
