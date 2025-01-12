@@ -1,6 +1,6 @@
 # 👋 Hiya, I'm Unaib ur Rehman!
 
-I'm a passionate **Software Engineer** and **Creative Designer** dedicated to crafting functional and impactful solutions.  
+I'm a passionate **Software Engineer** and **Creative Designer** dedicated to craft functional and impactful solutions.  
 
 ---
 
