@@ -29,9 +29,9 @@ I'm a passionate **Software Engineer** and **Creative Designer** dedicated to cr
 
 
 ## 📱 Mobile Development
+[<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />](https://reactnative.dev/)
 [<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />](https://flutter.dev/)
 [<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />](https://dart.dev/)
-[<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />](https://reactnative.dev/)
 
 ## 💻 Backend Development
 [<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />](https://nodejs.org/)
